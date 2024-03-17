@@ -1,0 +1,10 @@
+.error-message {
+    color: red;
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 5px;
+    font-size: 12px;
+}
+input::placeholder {
+    font-size: 14px;
+}

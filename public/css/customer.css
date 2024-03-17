@@ -1,0 +1,142 @@
+.mt20 {
+    margin-top: 20px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+h5 {
+    text-transform: uppercase;
+}
+
+.uk-flex-space-between {
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.uk-flex-middle {
+    -ms-flex-again: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.uk-flex {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.filter-wrapper {
+    margin-bottom: 16px;
+}
+
+.filter-wrapper .perpage {
+    display: inline-block;
+}
+
+.btn {
+    font-size: 13px;
+    border: 0;
+    height: 32px;
+    margin-bottom: 0 !important;
+}
+
+.filter-wrapper .form-control {
+    height: 32px !important;
+    max-width: 200px;
+    font-size: 13px;
+}
+
+.mr10 {
+    margin-right: 10px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.ml10 {
+    margin-left: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.box .ibox {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.control-lable {
+    display: block;
+}
+
+.panel-title {
+    font-size: 20px;
+    margin-bottom: 6px;
+    font-weight: 600;
+    color: #1a1a1a;
+}
+
+.panel-description {
+    font-size: 15px;
+}
+
+#checkAll, .checkBoxItem {
+    width: 16px;
+    height: 16px;
+}
+
+.active-bg {
+    background: #ffc !important;
+}
+
+.select2-container--default {
+    margin-right: 10px;
+}
+
+.flag-table img {
+    width: 50px;
+    height: 30px;
+}
+
+.meta-title {
+    font-size: 20px;
+    color: #1a0dab;
+}
+
+.canonical {
+    color: green;
+}
+
+.meta-description {
+    font-size: 14px;
+}
+
+.seo-wrapper {
+    margin-top: 30px;
+}
+
+.seo-wrapper textarea {
+    height: 200px !important;
+}
+
+.notice {
+    font-size: 11px;
+    font-style: italic;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.language-item img {
+    width: 50px;
+    height: 30px;
+}
+
+.flag-active {
+    background: #337ab7;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
